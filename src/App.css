@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.parentSidebar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.eachSidebar {
+  height: 200px;
+  width: 100px;
+  border: 2px solid red;
+  margin-right: 15px;
+}
+
+.foot {
+  height: 100px;
+  width: 80%;
+  border: 2px solid green;
+  margin: auto;
+  margin-top: 20px;
+}
